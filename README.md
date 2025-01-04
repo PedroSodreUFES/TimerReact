@@ -2,9 +2,14 @@
 # Timer em React
 ## ferramentas utilizadas
 + React
-+ Local Storage
++ React Context(createContext, useContext)
 + React Router
++ React Hooks: useState, useEffect, useReducer
++ React Hook Form
++ Local Storage
 + Styled Components
++ immer
++ zod
 ## Páginas
 1. Timer
    <br>Página que conta com o cronômetro e com inputs de 'nome da task' e 'tempo para realizara  task'. O cronômetro vai rodando conforme o tempo mostrado pelo usuário. O usuário também pode interromper a task a qualquer momento para realizar outra
