@@ -1,5 +1,5 @@
-# Timer em React
 ---
+# Timer em React
 ## ferramentas utilizadas
 + React
 + Local Storage
@@ -13,3 +13,4 @@
    1. Concluída: cronômetro foi até o fim
    2. Em andamento: cronômetro está em andamento
    3. Interrompida: usuário parou o cronômetro no meio da tarefa
+---
