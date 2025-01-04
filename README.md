@@ -4,7 +4,7 @@
 + React
 + React Context(createContext, useContext)
 + React Router
-+ React Hooks: useState, useEffect, useReducer
++ React Hooks (useState, useEffect, useReducer)
 + React Hook Form
 + Local Storage
 + Styled Components
